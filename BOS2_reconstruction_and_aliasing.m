@@ -20,3 +20,5 @@ figure(1)
 plot(td,fd,'or',LineWidth=2)
 hold on
 plot(t_recon,f_recon,'-k',LineWidth=2)
+
+boxplot
